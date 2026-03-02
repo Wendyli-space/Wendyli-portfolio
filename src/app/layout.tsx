@@ -25,7 +25,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "李昭瑩 — 專案管理 · 數位轉型 · 自動化流程",
     description: "從傳產內部走過數位轉型全程，現在協助你的企業實現同樣的轉變。",
-    images: ["/images/headshot.jpg"],
+    images: ["/Wendyli-portfolio/images/headshot.jpg"],
   },
 };
 

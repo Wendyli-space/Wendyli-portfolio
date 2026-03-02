@@ -182,7 +182,7 @@ export default function AboutMePage() {
             >
               <div className="relative w-[220px] h-[280px] md:w-[320px] md:h-[420px]">
                 <Image
-                  src="/Wendyli-portfolio/images/headshot.jpg"
+                  src="/images/headshot.jpg"
                   alt="李昭瑩 Chaoying Li"
                   fill
                   className="object-cover rounded-2xl"

@@ -25,7 +25,7 @@ export default function About() {
             <div className="relative w-full max-w-[400px] mx-auto pb-8">
               <div className="relative w-full aspect-[3/2] rounded-2xl overflow-hidden hover:scale-[1.03] transition-transform duration-400">
                 <Image
-                  src="/Wendyli-portfolio/images/presenting.png"
+                  src="/images/presenting.png"
                   alt="李昭瑩 簡報照"
                   fill
                   className="object-cover"
@@ -34,7 +34,7 @@ export default function About() {
               </div>
               <div className="absolute -bottom-4 right-[-20px] md:right-[-40px] w-[160px] h-[120px] md:w-[200px] md:h-[150px] rounded-xl overflow-hidden border-4 border-white shadow-lg hover:scale-[1.03] transition-transform duration-400">
                 <Image
-                  src="/Wendyli-portfolio/images/warehouse.png"
+                  src="/images/warehouse.png"
                   alt="李昭瑩 倉儲照"
                   fill
                   className="object-cover"
@@ -43,7 +43,7 @@ export default function About() {
               </div>
               <div className="absolute -bottom-4 left-[-10px] md:left-[-30px] w-[140px] h-[105px] md:w-[170px] md:h-[128px] rounded-xl overflow-hidden border-4 border-white shadow-lg hover:scale-[1.03] transition-transform duration-400">
                 <Image
-                  src="/Wendyli-portfolio/images/brainstorming.jpg"
+                  src="/images/brainstorming.jpg"
                   alt="李昭瑩 工作坊討論"
                   fill
                   className="object-cover"

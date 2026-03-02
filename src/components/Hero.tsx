@@ -80,7 +80,7 @@ export default function Hero() {
           >
             <div className="relative w-[240px] h-[300px] md:w-[360px] md:h-[480px]">
               <Image
-                src="/Wendyli-portfolio/images/headshot.jpg"
+                src="/images/headshot.jpg"
                 alt="李昭瑩 Chaoying Li"
                 fill
                 className="object-cover rounded-2xl"

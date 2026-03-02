@@ -54,7 +54,7 @@ export default function Awards() {
         <ScrollReveal>
           <div className="relative w-full h-[240px] md:h-[320px] rounded-2xl overflow-hidden mb-12">
             <Image
-              src="/images/award-group.jpg"
+              src="/Wendyli-portfolio/images/award-group.jpg"
               alt="永豐金控商業競賽頒獎"
               fill
               className="object-cover"

@@ -11,7 +11,7 @@ const awards = [
     extraBadge: "受金融園區邀請分享",
     description:
       "整合 DA BOSS 平台 + 消費者旅程地圖 + AI 技術提出平台優化方案",
-    image: "/images/award-speech.jpg",
+    image: "/Wendyli-portfolio/images/award-speech.jpg",
   },
   {
     name: "第五屆國泰飯店觀光事業全國大專行銷企劃大賽",
@@ -19,14 +19,14 @@ const awards = [
     badgeVariant: "dark" as const,
     description:
       "將 AI 支付創新與永續行銷整合於 CUBE 卡策略，提出信用卡結合房卡功能的創新構想",
-    image: "/images/cathay-competition.jpg",
+    image: "/Wendyli-portfolio/images/cathay-competition.jpg",
   },
   {
     name: "第三屆保誠創新智造所",
     badge: "參賽",
     badgeVariant: "light" as const,
     description: "心理健康支援機制企劃，跨域團隊協作經驗",
-    image: "/images/prudential-competition.png",
+    image: "/Wendyli-portfolio/images/prudential-competition.png",
   },
   {
     name: "第二屆電通永續之森",
@@ -34,7 +34,7 @@ const awards = [
     badgeVariant: "light" as const,
     description:
       "以「美麗市場」為主題，規劃新光三越 ESG 回饋高齡者社區專案",
-    image: "/images/dentsu-competition.png",
+    image: "/Wendyli-portfolio/images/dentsu-competition.png",
   },
 ];
 
@@ -54,7 +54,7 @@ export default function Awards() {
         <ScrollReveal>
           <div className="relative w-full h-[240px] md:h-[320px] rounded-2xl overflow-hidden mb-12">
             <Image
-              src="/images/award-group.jpg"
+              src="/Wendyli-portfolio/images/award-group.jpg"
               alt="永豐金控商業競賽頒獎"
               fill
               className="object-cover"
